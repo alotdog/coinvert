@@ -7,4 +7,5 @@ Screenshot:
 ---
 
 License: MIT
+
 Uses jquery.qrcode.js <https://github.com/jeromeetienne/jquery-qrcode>
