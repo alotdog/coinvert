@@ -10,7 +10,7 @@ Screenshot:
 ![coinvert screenshot](screenshot.png)
 
 ### Issues
-This is a very old project that existed soley to help me learn git/github and DOM/styling by creating a thing I had absolutely no use for. Besides being a mess of javascript and jQuery, there is precision loss when getting the conversion rate and the inability to have more than one widget. I don't really feel like revisiting this, so please fix.
+This is a very old project that existed mainly to help me learn git/github and DOM/styling. Besides being a mess of javascript and jQuery, there is precision loss when getting the conversion rate and the inability to have more than one widget. I don't really feel like revisiting this now though.
 
 ---
 
