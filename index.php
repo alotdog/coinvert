@@ -29,7 +29,7 @@ $doge = number_format((float)1/$dogedata['data']['prices'][0]['price'], 2, '.', 
   <br />
   <input type="hidden" id="btcRate" value="<?php echo $btc; ?>" /><input type="hidden" id="ltcRate" value="<?php echo $ltc; ?>" /><input type="hidden" id="dogeRate" value="<?php echo $doge; ?>" />
   <br />
-  <div style="width: 100%; margin-top:1em; max-width:37em; min-width:18em; margin:auto">
+  <div style="width: 100%; margin-top:1em; max-width:38em; min-width:18em; margin:auto">
     <div id="conversionArea">
       <label for="paymentMethod">Payment method:</label><br />
       <select id="paymentMethod">
