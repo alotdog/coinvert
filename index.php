@@ -46,7 +46,7 @@ $doge = number_format((float)1/$dogedata['data']['prices'][0]['price'], 2, '.', 
       </div>
     </div>
     <div id="qrGen"></div>
-    <div style="text-align: center; font: 14px 'Verdana',sans-serif; line-height:150%;"><span style="white-space:nowrap;">1. Select payment method</span><br /><span style="white-space:nowrap;">2. Choose your own price!</span><br /><span style="white-space:nowrap;">3. Click address to reveal download link</span><br /><div id="linkGen"><a href="bitcoin:3H2e7tAJmaLqfu2ayb8JwdVt6JrU5a77hF?amount=<?php echo $btc; ?>&message=Coinvert payment">3H2e7tAJmaLqfu2ayb8JwdVt6JrU5a77hF</a></div></div>
+    <div style="text-align: center; font: 14px 'Verdana',sans-serif; line-height:150%;"><span style="white-space:nowrap;">1. Select</span> payment method<br />2. Choose your own price!<br />3. Click address to reveal download link<br /><div id="linkGen"><a href="bitcoin:3H2e7tAJmaLqfu2ayb8JwdVt6JrU5a77hF?amount=<?php echo $btc; ?>&message=Coinvert payment">3H2e7tAJmaLqfu2ayb8JwdVt6JrU5a77hF</a></div></div>
     <div style="text-align: center" id="downloadArea"><a href="#">DOWNLOAD LINK</a></div>
   </div>
  </div>
