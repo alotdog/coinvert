@@ -15,4 +15,5 @@ This is a very old project that existed soley to help me learn git/github and DO
 ---
 
 License: MIT
+
 Uses jquery.qrcode.js <https://github.com/jeromeetienne/jquery-qrcode>
