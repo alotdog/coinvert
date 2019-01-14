@@ -6,6 +6,6 @@ Screenshot:
 
 ---
 
-License: MIT
+License: Public Domain / Unlicense
 
 Uses jquery.qrcode.js <https://github.com/jeromeetienne/jquery-qrcode>
