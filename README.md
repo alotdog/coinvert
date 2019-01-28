@@ -1,5 +1,5 @@
 # Coinvert Demo
-Demo: <http://incredulotdog.github.io/coinvert/> (non-php/block.io version for static gh-pages with hard coded values)
+Demo: <http://alotdog.github.io/coinvert/> (non-php/block.io version for static gh-pages with hard coded values)
 
 Screenshot:
 ![coinvert screenshot](screenshot.png)
