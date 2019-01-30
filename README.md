@@ -3,8 +3,8 @@ Public domain cryptocurrency pay-what-you-want widget for digital downloads with
 
 Demo: <http://alotdog.github.io/coinvert/> (non-php/block.io version for static gh-pages branch with hard coded values)
 
-### Super-rad number spinner
-The number spinners are custom and pretty rad. They look good across browsers and allow you to type values, use the clicky buttons, and press the up/down keys to scroll quickly. Rel measurements and no images for scalability.
+### Clean/minimal number spinner
+Looks good across browsers and allow you to type values, use the clicky buttons, and use the up/down keys to scroll quickly. Rel measurements and no images for scalability.
 
 Screenshot:
 ![coinvert screenshot](screenshot.png)
@@ -16,4 +16,4 @@ This is a very old project that existed mainly to help me learn git/github and D
 
 License: Public Domain / Unlicense
 
-Uses jquery.qrcode.js <https://github.com/jeromeetienne/jquery-qrcode>
+Uses jquery.qrcode.js <https://github.com/jeromeetienne/jquery-qrcode> (MIT License)
