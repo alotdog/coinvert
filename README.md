@@ -8,4 +8,4 @@ Screenshot:
 
 License: Public Domain / Unlicense
 
-Uses jquery.qrcode.js <https://github.com/jeromeetienne/jquery-qrcode>
+Implements jquery.qrcode.js <https://github.com/jeromeetienne/jquery-qrcode>
