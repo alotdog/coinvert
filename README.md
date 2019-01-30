@@ -16,4 +16,4 @@ This is a very old project that existed mainly to help me learn git/github and D
 
 License: Public Domain / Unlicense
 
-Uses jquery.qrcode.js <https://github.com/jeromeetienne/jquery-qrcode> (MIT License)
+Implements jquery.qrcode.js <https://github.com/jeromeetienne/jquery-qrcode> (MIT License)
