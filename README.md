@@ -10,7 +10,8 @@ Screenshot:
 ![coinvert screenshot](screenshot.png)
 
 ### Issues
-This is a very old project that existed mainly to help me learn git/github and DOM/styling. Besides being a mess of javascript and jQuery, there is precision loss when getting the conversion rate and the inability to have more than one widget. I don't feel like revisiting this right now, but I might clean it up in the future.
+This is a very old project that existed mainly to help me learn git/github and DOM/styling (pre-boom). Besides being a mess of javascript and jQuery, there is precision loss when getting the conversion rate and the inability to have more than one widget. It should also have the click+hold to increment as well as dynamically created step sizes using the current amount to reflect crypto volitility.
+I don't feel like revisiting this right now, but I might clean it up in the future.
 
 ---
 
